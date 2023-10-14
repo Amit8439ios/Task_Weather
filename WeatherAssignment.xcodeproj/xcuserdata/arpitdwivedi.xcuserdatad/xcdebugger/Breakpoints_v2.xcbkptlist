@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1048AEC-0816-4CFF-896A-0791CA3CD301"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82C2A76C-817E-4ED0-A3A9-9821D4E7E607"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmitWeatherAssignment/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "getCurrentWeather(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "053E3D31-97F9-4574-B22F-BA30373A586C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmitWeatherAssignment/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "getCurrentWeather(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "053E3D31-97F9-4574-B22F-BA30373A586C - 5587a516570816ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AmitWeatherAssignment.ViewController.getCurrentWeather(for: Swift.String, completion: (Swift.Result&lt;AmitWeatherAssignment.WeatherData, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AmitWeatherAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arpitdwivedi/Downloads/AmitWeatherAssignment/AmitWeatherAssignment/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+               <Location
+                  uuid = "053E3D31-97F9-4574-B22F-BA30373A586C - 5587a516570816ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AmitWeatherAssignment.ViewController.getCurrentWeather(for: Swift.String, completion: (Swift.Result&lt;AmitWeatherAssignment.WeatherData, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AmitWeatherAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arpitdwivedi/Downloads/AmitWeatherAssignment/AmitWeatherAssignment/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
